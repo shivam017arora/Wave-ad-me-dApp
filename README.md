@@ -1,5 +1,10 @@
 # buildspace Wave Portal 👋
 
+# Demo:
+
+<img width="1180" alt="Screenshot 2022-07-14 at 10 09 51 PM" src="https://user-images.githubusercontent.com/26146104/179033728-8d3972cc-52d2-40ef-9359-19fc6a9ecd7f.png">
+
+
 ### **Welcome!**
 
 To get started with this course, clone this repo and follow these commands:
